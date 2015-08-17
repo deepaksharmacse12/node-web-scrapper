@@ -1,6 +1,6 @@
 # node-web-scrapper
 
-Simple web-scrapper in `Node.js` to scrap the movie name, rating, and url of image from IMDB top 250 movies list (http://www.imdb.com/chart/top), `cheerio` (https://github.com/cheeriojs/cheerio) for working with jquery on the server side. Scrapping is done only for the learning purpose.
+Simple web-scrapper in `Node.js` to scrap the movie name, rating, and url of image from IMDB top 250 movies list (http://www.imdb.com/chart/top), `cheerio` (https://github.com/cheeriojs/cheerio) is used for working with jquery on the server side. Scrapping is done only for the learning purpose.
 
 ## Installation
 
